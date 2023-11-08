@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C# C JAVA HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me thestarlake.lukemackin@gmail.com or nlcbt.top
+- 📫 How to reach me thestarlake.lukemackin@gmail.com
 
 <!---
 Childish-Ghost/Childish-Ghost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
